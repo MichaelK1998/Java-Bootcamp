@@ -1,7 +1,7 @@
 public class LogicalOperators {
     public static void main(String[] args) {
 
-        /**********************AND OPERATOR**********************/
+        //AND OPERATOR &&
 
         boolean hasDrivingLicense = true;
         boolean hasInsurance = true;
@@ -39,7 +39,7 @@ public class LogicalOperators {
          }
 
 
-        //        || OR OPERATOR
+        // OR OPERATOR  ||
 
         boolean hasGoodPerformance = true;
         boolean isLongTermEmployee = false;
@@ -72,7 +72,7 @@ public class LogicalOperators {
 
 
 
-        /**********************NOT OPERATOR**********************/
+        // NOT OPERATOR !()
 
         String option = "cash";
 

@@ -76,10 +76,8 @@ public class SwitchStatements {
 
         switch (browser) {
             case "Chrome": System.out.println("Enjoy your Chrome extensions!\n"); break;
-            case "Firefox": System.out.println("Enjoy your Firefox extensions!\n"); break;
-            case "Safari": System.out.println("Enjoy your Safari extensions!\n"); break;
-            case "Edge": System.out.println("Enjoy your Edge extensions!\n"); break;
-            case "Opera": System.out.println("Enjoy your Opera extensions!\n"); break;
+            case "Firefox": System.out.println("The best nonprofit browser!\n"); break;
+            case "Safari": System.out.println("I see you're a proud Apple user!\n"); break;
             default: System.out.println("Curious? What browser do you use?");
         }
 
